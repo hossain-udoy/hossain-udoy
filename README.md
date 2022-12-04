@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-udoy&" alt="hossain-udoy" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hossain-udoy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hossain-udoy&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossain-udoy&label=Profile%20views&color=0e75b6&style=flat" alt="hossain-udoy" /> </p>
