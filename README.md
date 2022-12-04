@@ -4,12 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md. Awalad Hossain Udoy</h1>
 <h3 align="center">I am a Full-stack Web Developer having fast learning capability of any new technology.</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossain-udoy" alt="hossain-udoy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+#  About Me:
 - 🌱 I’m currently learning **React JS, Node Js, Express Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hossain-udoy?tab=repositories](https://github.com/hossain-udoy?tab=repositories)
@@ -21,6 +16,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I6Ia0PTvHPl9OUa7D7bBKJ5V0dZpWT_8/view?usp=share_link](https://drive.google.com/file/d/1I6Ia0PTvHPl9OUa7D7bBKJ5V0dZpWT_8/view?usp=share_link)
 
 - ⚡ Fun fact **I think my sense of humor and jokes timing is good.**
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
