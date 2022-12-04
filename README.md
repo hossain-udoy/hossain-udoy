@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think my sense of humor and jokes timing is good.**
 
-<p align="left"> <a href="https://facebook.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/309384406_2337375099734424_4271954312010258925_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGUseV03_NaBu2JL0C30VuEyNtMBlaIEdvI20wGVogR247Cu8uw2oblWI47ZeklhOGEmprvM0uF9uz7OfqwBjov&_nc_ohc=4xRI3F1U7okAX_TaVzl&_nc_ht=scontent.fdac27-2.fna&oh=00_AfA68TjZbePK2Nut6zWcf9EFpj0UKxwv5N1nHdwU7yLZ3w&oe=6390AA0F)?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/311222356_2333084933496774_472461548920819138_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEkdi50D0vtlpqT_MdW0USvKjKk0auMmtUqMqTRq4ya1eJz9ljTJQ7hzFt4h9Bk4EzQEPXXv4T-ucGYCiEBpebS&_nc_ohc=AjY4rFiqpQgAX8uWHJU&tn=JAaDQ52C-OA-WiRb&_nc_ht=scontent.fdac27-2.fna&oh=00_AfBbWm__bT04T6r9kQ-mVAT5SjeBm9iuNbw5_o1SSqejOg&oe=6391BF25" alt="" /></a> </p>
 
 
 ## 🌐 Socials:
