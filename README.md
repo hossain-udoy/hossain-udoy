@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think my sense of humor and jokes timing is good.**
 
-<p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/309384406_2337375099734424_4271954312010258925_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGUseV03_NaBu2JL0C30VuEyNtMBlaIEdvI20wGVogR247Cu8uw2oblWI47ZeklhOGEmprvM0uF9uz7OfqwBjov&_nc_ohc=4xRI3F1U7okAX_TaVzl&_nc_ht=scontent.fdac27-2.fna&oh=00_AfA68TjZbePK2Nut6zWcf9EFpj0UKxwv5N1nHdwU7yLZ3w&oe=6390AA0F" alt="" /></a> </p>
+<p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/309384406_2337375099734424_4271954312010258925_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGUseV03_NaBu2JL0C30VuEyNtMBlaIEdvI20wGVogR247Cu8uw2oblWI47ZeklhOGEmprvM0uF9uz7OfqwBjov&_nc_ohc=4xRI3F1U7okAX_TaVzl&_nc_ht=scontent.fdac27-2.fna&oh=00_AfA68TjZbePK2Nut6zWcf9EFpj0UKxwv5N1nHdwU7yLZ3w&oe=6390AA0F" height="150" width="400" alt="" /></a> </p>
 
 
 ## 🌐 Socials:
