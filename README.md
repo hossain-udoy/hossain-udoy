@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md. Awalad Hossain Udoy</h1>
 <h3 align="center">I am a Full-stack Web Developer having fast learning capability of any new technology.</h3>
 
-<p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://ibb.co/M1nVZNV"  alt="" /></a> </p>
+<p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://i.ibb.co/t2BsQCs/udoy-hossain-bhi.jpg"  alt="" /></a> </p>
 
 #  About Me:
 - 🌱 I’m currently learning **React JS, Node Js, Express Js**
