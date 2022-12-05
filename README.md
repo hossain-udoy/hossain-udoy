@@ -2,6 +2,7 @@
 <h3 align="center">I am a Full-stack Web Developer having fast learning capability of any new technology.</h3>
 
 <p align="left"> <a href="https://facebook.com/" target="blank"><img src="https://i.ibb.co/t2BsQCs/udoy-hossain-bhi.jpg" width="1100"  alt="" /></a> </p>
+<p>Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high- quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will expand my learning and builds upon my developer skills.</p>
 
 #  About Me:
 - 🌱 I’m currently learning **React JS, Node Js, Express Js**
